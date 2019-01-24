@@ -5,7 +5,7 @@ sudo apt-get upgrade
 
 Download and unzip tutorial samples:
 
-wget https://github.com/EDPE-groep1/IOTHanze/blob/master/azure-iot-sdk-python-master.zip
+wget https://github.com/EDPE-groep1/EdgeDevice/blob/master/azure-iot-sdk-python-master.zip
 unzip master.zip
 
 Upgrade pip setuptools:
